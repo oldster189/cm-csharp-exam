@@ -34,7 +34,7 @@
 
 4.2 แปลงข้อมูล JSON ข้อ 4.1 เป็น Class (ชื่อ Product) 
 
-4.3 แสดงข้อมูลที่ fetch ได้เป็น Table แบบ virtual scroll มี Column ดังนี้
+4.3 แสดงข้อมูลที่ fetch ได้เป็น Table แบบ Virtualizing มี Column ดังนี้
   - Thumbnail
   - Title
   - Price
